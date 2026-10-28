@@ -1,0 +1,1 @@
+ipconfig > "%userprofile%\desktop\ipconfig.txt
