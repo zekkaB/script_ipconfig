@@ -1,1 +1,1 @@
-ipconfig > "%userprofile%\desktop\ipconfig.txt
+ipconfig /all > "%userprofile%\desktop\ipconfig.txt
